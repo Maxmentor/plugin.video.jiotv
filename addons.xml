@@ -37,8 +37,8 @@
 <addon id="repository.maxmentor" name="maxmentor Addon Repository" version="2.0.1" provider-name="maxmentor">
 <extension point="xbmc.addon.repository" name="maxmentor Addons Repository">
 <dir minversion="19.0">
-<info compressed="false">https://raw.githubusercontent.com/Maxmentor/jiotv-kodi/main/addons.xml</info>
-<checksum>https://raw.githubusercontent.com/Maxmentor/jiotv-kodi/main/addons.xml.md5</checksum>
+<info compressed="false">https://github.com/Maxmentor/plugin.video.jiotv/main/addons.xml</info>
+<checksum>https://github.com/Maxmentor/plugin.video.jiotv/main/addons.xml.md5</checksum>
 <datadir zip="true">https://maxmentor.github.io/Zips</datadir>
 </dir>
 </extension>
